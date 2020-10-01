@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Profile</title>
+        <style>
+            h1{text-align: center;font-size: xx-large;font-weight: bolder;font-style: italic;}
+            .img-container {
+        text-align: center;}
+        a{
+                color:black;
+            font-size: 200%;
+            margin-inline-end:20px;
+                
+            }
+            
+        .a{
+            position:absolute;padding-right: 10%;
+        }
+        h5{
+            text-align: center;font-size:30px; 
+        }
+       
+
+    
+        p{
+           text-align:center;font-style:normal;font-weight: bolder;
+           font-size:50px;}
+       
+        </style>
+    </head>
+    <body background="image.jpg">
+        <img src="icon.jpg" height="60" width="60" alt="icon">
+        
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="Education.html">Education</a>
+        <a href="Activity.html">Activity</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="Contact.html">Contact</a>
+        <h1>TE@J$VY</h1>
+        <h1>HI THERE! </h1>
+       
+            <h1>CONTACT ME</h1>
+            <center><form action="">
+                <Label>
+                    <b>Name:</b>   
+                </Label><input text="text area" value="">
+                <Label>
+                    <b>Email:</b>  
+                </Label><input text="text area" value="">
+                <Label>
+                   <b>Message:</b> 
+                </Label><input text="text area" value="">
+
+            </form>
+        </center>
+           
+            
+
+
+            
+        </nav>
+         
+    </body>
+</html>
+<footer>ALL rights reserved</footer>
+
