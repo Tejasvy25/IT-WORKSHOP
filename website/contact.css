@@ -1,0 +1,31 @@
+
+    body{
+        
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: 100% 100%;
+     font-family: arial;
+     color:whitesmoke;
+}
+
+.submit message {
+    widows: 320px;
+    height: 420px;
+    color:black;
+    top:50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+
+}
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+    color: black;
+}
+
+
+
